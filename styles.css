@@ -48,7 +48,7 @@ nav .menu-btn i{
 #click{
   display: none;
 }
-@media (max-width: 700px) {
+@media (max-width: 600px) {
 nav .menu-btn i{
   display: block;
 }
